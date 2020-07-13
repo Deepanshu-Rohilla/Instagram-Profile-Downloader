@@ -1,13 +1,14 @@
+# Insta-Profile-Picture-Downloader
+To download profile pictures from Instagram 😈
+
+
+
 Some of the features that can be used. I will update the repo if I'll ever use them:
 </br> </br> </br> </br>
 ![](features.png)
 </br> </br> </br> </br>
 ![](instaloaderOutput.png)
 
-
-
-# Insta-Profile-Picture-Downloader
-To download profile pictures from Instagram 😈
 
 Following dependencies must be installed on your machine (for running main.py)
 - Run `pip install requests` to download the requests library
