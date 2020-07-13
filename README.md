@@ -1,3 +1,11 @@
+Some of the features that can be used. I will update the repo if I'll ever use them:
+</br> </br> </br> </br>
+![](features.png)
+</br> </br> </br> </br>
+![](instaloaderOutput.png)
+
+
+
 # Insta-Profile-Picture-Downloader
 To download profile pictures from Instagram 😈
 
@@ -12,8 +20,3 @@ For running ultramain.py
 
 Sorry for naming commit messsage for main.py as "only commit". I did not realise the fact thay python can have library for such things too. I thought main.py would do the thing.
 
-Some other features that can be used. I will update the repo if I'll ever use them:
-</br> </br> </br> </br>
-![](features.png)
-</br> </br> </br> </br>
-![](instaloaderOutput.png)
