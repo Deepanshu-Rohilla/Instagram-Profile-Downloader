@@ -8,6 +8,8 @@ Some of the features that can be used. I will update the repo if I'll ever use t
 ![](features.png)
 </br> </br> </br> </br>
 ![](instaloaderOutput.png)
+</br> </br> </br> </br>
+![](myJSONData.png)
 
 
 Following dependencies must be installed on your machine (for running main.py)
