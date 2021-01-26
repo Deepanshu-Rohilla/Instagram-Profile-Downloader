@@ -1,7 +1,4 @@
 # Insta-Profile-Picture-Downloader
-To download profile pictures from Instagram 😈
-
-
 
 Some of the features that can be used. I will update the repo if I'll ever use them:
 </br> </br> </br> </br>
